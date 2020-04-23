@@ -80,7 +80,7 @@ export default {
 		addCart: 'api-order/auth/addCart', // 添加商品到购物车
 		cartList: 'api-order/auth/cartList', // 获取某个会员的购物车列表
 		promotionCartList: 'api-order/auth/cart/list/promotion', // 获取某个会员的购物车列表,包括促销信息
-		updateQuantity: 'api-order/cart/update/quantity', //修改购物车中某个商品的数量
+		updateQuantity: 'api-order/auth/quantity', //修改购物车中某个商品的数量
 		deleteCart: 'api-order/auth/delete', // 删除购物车中的某个商品
 		clearCart: 'api-order/auth/clear', // 清空购物车
 
