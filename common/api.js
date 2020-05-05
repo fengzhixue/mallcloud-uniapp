@@ -2,9 +2,10 @@ import store from '../store/index';
 export default {
 
 	//  BASEURI:'http://www.yjlive.cn:8085/api/',
-	BASEURI: 'http://localhost:8081/',
-	ESURI: 'http://localhost:8081/api/',
-
+	//BASEURI: 'http://127.0.0.1:8081/',
+	//ESURI: 'http://127.0.0.1:8081/api/',
+	BASEURI: 'https://d.hdd2018.com/testfront',
+	ESURI: 'https://d.hdd2018.com/testfront/api',
 	es: {
 		searchList: 'search',
 	},

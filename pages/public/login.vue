@@ -46,8 +46,8 @@ import store from '@/store/index';
 export default {
 	data() {
 		return {
-			username: '13146587722',
-			password: '123456',
+			username: '18512345678',
+			password: '111111',
 			logining: false
 		};
 	},
